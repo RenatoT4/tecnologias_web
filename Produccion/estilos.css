@@ -1,0 +1,27 @@
+.titulo{
+    background-color: red;
+}
+
+.usuario{
+    background-color: green;
+}
+
+.historial{
+    background-color: chocolate;
+}
+
+.contenido{
+    background-color: aqua;
+}
+
+.facNum{
+    background-color: blueviolet;
+}
+
+.maxFac{
+    background-color: chartreuse;
+}
+
+.imagen{
+    width: 400px;   
+}
