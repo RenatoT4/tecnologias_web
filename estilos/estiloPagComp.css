@@ -1,0 +1,51 @@
+.tabla {
+    margin-top: 2%;
+}
+
+h4 {
+    padding: 2%;
+}
+
+h6 {
+    color: #007bff;
+}
+
+.imagen-marco-pag {
+    width: 95%;
+    height: 100%;
+    border: 2px solid #ccc;
+    border-radius: 5px; 
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+}
+
+.imagen-marco-pag img {
+    width: 900px;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+.imagen-marco-pag:hover img {
+    transform: scale(1.1);
+}
+
+.especificaciones {
+    padding-top: 5%;
+}
+
+li {
+    word-break: break-all;
+    text-align: justify;
+}
+
+.subscript {
+    font-size: large;
+}
+
+.pag-sig-ant {
+    padding-top: 7%;
+}
+
+.separador-boton {
+    width: 20px;
+}
