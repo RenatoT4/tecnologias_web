@@ -1,0 +1,410 @@
+/*Para moto footer*/
+@media screen and (max-width: 1329px){
+    #cont-arma-tu-moto .estilo-div-h1 h1 {
+        font-size: 1.7em;
+    }
+
+    #estilo-footer-tabla {
+        margin-top: 3%;
+    }
+
+    #boton-arma-tu-moto {
+        margin-right: 65%;
+    }
+}
+
+/*Para: tablas our team y last work, what we do, texto-grande*/
+@media screen and (max-width: 1312px) {
+    .celda-img {
+        height: 276px;
+    }
+
+    #tabla-our-team tbody td {
+        height: 276px;
+    }
+
+    #tabla-our-team tbody img {
+        display: block;
+        margin: 0 auto;
+        width: auto;
+        height: 100%;
+    }
+
+    #foto-moto-Honda {
+        width: 60%;
+    }
+
+    #boton-trabajo {
+        margin-right: 53%;
+    }
+
+    #texto-grande {
+        font-size: 2.2em;
+    }
+}
+
+/*Para nav, what we do, texto-grande, moto-footer, testimonio*/
+@media screen and (max-width: 1134px) { /*1126*/
+    #pestana-caja {
+        display: flex;
+    }
+
+    #menu {
+        display: none;
+    }
+
+    #navegacion-input:checked ~ #menu-2 {
+        display: block;
+    }
+
+    #what-we-do {
+        display: block;
+    }
+
+    #posicion-moto-Honda {
+        left: 0;
+    }
+
+    #foto-moto-Honda {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .fix-1-adorno-3 {
+        margin-top: 8.3%;
+    }
+
+    #adorno-2 {
+        margin-top: 12.8%;
+    }
+
+    #cont-trabajo {
+        padding-left: 0%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #descripcion-trabajo {
+        padding-right: 5%;
+        padding-left: 5%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #boton-trabajo {
+        margin-right: 0%;
+    }
+
+    #texto-grande {
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+
+    #descripcion-arma-tu-moto {
+        padding-right: 0;
+    }
+    
+    #cont-arma-tu-moto {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 13%;
+        padding-right: 0%;
+    }
+
+    .fondo-moto-footer {
+        margin-top: -4%;
+    }
+
+    #boton-arma-tu-moto {
+        margin-right: 0;
+    }
+
+    #adorno-4 {
+        background-size: 60%;
+    }
+}
+
+/*Para tablas our team y last work, what we do, historia, footer, iconos-marcas*/
+@media screen and (max-width: 995px) {
+    .tabla-ultimos-trabajos td {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #tabla-our-team td {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .celda-img {
+        height: 376px;
+    }
+
+    #tabla-our-team tbody td {
+        height: 376px;
+    }
+
+    #tabla-our-team tbody img {
+        display: block;
+        margin: 0 auto;
+        width: auto;
+        height: 100%;
+    }
+
+    #tablas-our-work {
+        margin-top: 12%;
+    }
+
+    .tabla-ultimos-trabajos-dato-responsivo {
+        display: block;
+        padding-bottom: 3%;
+    }
+
+    .tabla-our-team-dato-responsivo {
+        display: block;
+        margin-bottom: -32%;
+    }
+
+    .tabla-ultimos-trabajos tfoot {
+        display: none;
+    }
+
+    #tabla-our-team tfoot {
+        display: none;
+    }
+
+    .tabla-ultimos-trabajos {
+        margin-top: 0.8%;
+    }
+
+    #tabla-our-team {
+        margin-top: 10%;
+    }
+
+    #posicion-moto-Honda {
+        width: 80%;
+    }
+
+    #historia-responsivo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #cont-historia {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding-right: 5%;
+    }
+
+    #descripcion-historia {
+        padding-right: 0;
+    }
+
+    #foto-vid {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding-right: 0;
+        padding-left: 0;
+        width: 100%;
+    }
+
+    #foto-moto-animada {
+        width: 90%;
+        margin-top: -20%;
+    }
+
+    #pos-icono-play-1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-left: 0;
+        padding-left: 0;
+        padding-right: 2%;
+        margin-top: 3%;
+    }
+
+    #adorno-1 {
+        margin-top: 60%;
+    }
+
+    #cont-arma-tu-moto {
+        padding-top: 17%;
+        font-size: 80%;
+    }
+
+    #estilo-footer-tabla td {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    #estilo-footer-tabla thead {
+        display: none;
+    }
+
+    .tabla-footer-responsivo {
+        display: block;
+    }
+
+    #footer-td-casilla-1, #footer-td-casilla-2, #footer-td-casilla-3, #footer-td-casilla-4 {
+        padding-left: 0;
+        padding-right: 0;
+        margin-right: 0;
+        width: 100%;
+    }
+
+    #footer-td-casilla-4 .contenedor {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    #espacio-input-email {
+        width: 40%;
+    }
+
+    .iconos-redes-sociales {
+        width: 17%;
+    }
+
+    #boton-final-footer {
+        margin-top: 7%;
+        width: 60%;
+    }
+
+    #marcas-Logoipsum .marco-foto-exterior {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+/*matt-owen, testimonio, texto-grande*/
+@media screen and (max-width: 915px){
+    #info-matt-owen {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-top: 5%;
+    }
+
+    #cont-owner {
+        margin-top: -10%;
+        margin-bottom: 5%;
+    }
+
+    #descripcion-owner {
+        padding-right: 0;
+    }
+
+    #testimonio-responsivo {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    #adorno-4 {
+        background-size: 50%;
+        background-position: right;
+        top: 1050%;
+    }
+
+    #cont-client-say {
+        margin-top: -10%;
+    }
+
+    #cont-client-say .espacio-texto-contenido-5 {
+        margin-top: 0;
+    }
+
+    #texto-grande {
+        font-size: 1.8em;
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+}
+
+/*ultimos-trabajos, testimonio, footer*/
+@media screen and (max-width: 689px) {
+    .celda-img {
+        height: 180px;
+    }
+
+    #foto-testimonio-1 img {
+        width: 60%;
+    }
+
+    #adorno-4 {
+        background-size: 50%;
+        top: 760%;
+    }
+
+    .fondo-moto-footer {
+        margin-top: -60%;
+    }
+
+    #cont-arma-tu-moto {
+        margin-top: 25%;
+    }
+
+    #texto-grande {
+        padding-left: 0;
+        padding-left: 0;
+    }
+
+    #caja-presentacion {
+        margin-top: -20%;
+    }
+
+    #adorno-1 {
+        margin-top: -34%;
+    }
+
+    #adorno-2 {
+        margin-top: -20%;
+    }
+
+    #adorno-3 {
+        margin-top: -20%;
+    }
+
+    #adorno-4 {
+        top: 720%;
+    }
+
+    #foto-Matt-Owen img{
+       width: 60%;
+    }
+
+    #tabla-numerico td {
+        display: flex;
+        padding-left: 0;
+        padding-right: 0;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .logros-responsivo {
+        display: block;
+        font-size: medium;
+        color: #cfcfcf;
+    }
+
+    #tabla-numerico tfoot {
+        display: none;
+    }
+}
